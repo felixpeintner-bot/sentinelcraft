@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "sentinelcraft:block/generator_off"
+    },
+    "lit=true": {
+      "model": "sentinelcraft:block/generator_on"
+    }
+  }
+}

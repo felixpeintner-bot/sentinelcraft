@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "minecraft:lever",
+    "minecraft:copper_ingot"
+  ],
+  "result": {
+    "id": "sentinelcraft:light_switch",
+    "count": 1
+  }
+}

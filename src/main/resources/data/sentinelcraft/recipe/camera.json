@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "III",
+    "GEG",
+    "IRI"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "G": "minecraft:glass_pane",
+    "E": "minecraft:spider_eye",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "sentinelcraft:camera",
+    "count": 1
+  }
+}

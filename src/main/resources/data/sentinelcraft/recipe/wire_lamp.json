@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "minecraft:redstone_lamp",
+    "minecraft:copper_ingot"
+  ],
+  "result": {
+    "id": "sentinelcraft:wire_lamp",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "sentinelcraft:block/wire_lamp_off"
+    },
+    "lit=true": {
+      "model": "sentinelcraft:block/wire_lamp_on"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "sentinelcraft:block/generator_off"
+  }
+}

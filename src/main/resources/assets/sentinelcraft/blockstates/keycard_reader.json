@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,powered=false": {
+      "model": "sentinelcraft:block/keycard_reader_idle"
+    },
+    "facing=north,powered=true": {
+      "model": "sentinelcraft:block/keycard_reader_ok"
+    },
+    "facing=east,powered=false": {
+      "model": "sentinelcraft:block/keycard_reader_idle",
+      "y": 90
+    },
+    "facing=east,powered=true": {
+      "model": "sentinelcraft:block/keycard_reader_ok",
+      "y": 90
+    },
+    "facing=south,powered=false": {
+      "model": "sentinelcraft:block/keycard_reader_idle",
+      "y": 180
+    },
+    "facing=south,powered=true": {
+      "model": "sentinelcraft:block/keycard_reader_ok",
+      "y": 180
+    },
+    "facing=west,powered=false": {
+      "model": "sentinelcraft:block/keycard_reader_idle",
+      "y": 270
+    },
+    "facing=west,powered=true": {
+      "model": "sentinelcraft:block/keycard_reader_ok",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "sentinelcraft:keycard_1",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "sentinelcraft:keycard_2",
+    "count": 1
+  }
+}

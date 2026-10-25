@@ -1,0 +1,9 @@
+{
+  "values": [
+    "sentinelcraft:generator",
+    "sentinelcraft:wire_lamp",
+    "sentinelcraft:light_switch",
+    "sentinelcraft:keycard_reader",
+    "sentinelcraft:camera"
+  ]
+}

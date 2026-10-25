@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "sentinelcraft:block/wire_lamp_on"
+  }
+}

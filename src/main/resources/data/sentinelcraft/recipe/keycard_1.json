@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:iron_ingot",
+    "minecraft:redstone"
+  ],
+  "result": {
+    "id": "sentinelcraft:keycard_1",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "sentinelcraft",
+  "version": "${version}",
+  "name": "Sentinel Craft",
+  "description": "Sicherheitstechnik fuer Minecraft: Keycard-Leser, Kameras, Generator und ein unsichtbares Kabelnetz.",
+  "authors": ["Felix"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.sentinelcraft.SentinelCraft"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": ">=26.1",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
