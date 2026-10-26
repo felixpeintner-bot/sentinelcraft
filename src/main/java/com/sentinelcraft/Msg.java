@@ -9,11 +9,11 @@ public final class Msg {
 
 	/** Nachricht in der Action-Bar (ueber der Hotbar). */
 	public static void bar(Player player, String key, Object... args) {
-		player.displayClientMessage(Component.translatable("message." + SentinelCraft.MOD_ID + "." + key, args), true);
+		player.sendOverlayMessage(Component.translatable("message." + SentinelCraft.MOD_ID + "." + key, args));
 	}
 
 	/** Nachricht im Chat. */
 	public static void chat(Player player, String key, Object... args) {
-		player.displayClientMessage(Component.translatable("message." + SentinelCraft.MOD_ID + "." + key, args), false);
+		player.sendSystemMessage(Component.translatable("message." + SentinelCraft.MOD_ID + "." + key, args));
 	}
 }
